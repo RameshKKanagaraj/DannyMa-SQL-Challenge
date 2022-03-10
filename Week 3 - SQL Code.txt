@@ -1,0 +1,5 @@
+How many customers has Foodie-Fi ever had?
+
+Select Count(distinct Customer_id) From foodie_fi.subscriptions;
+
+What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
